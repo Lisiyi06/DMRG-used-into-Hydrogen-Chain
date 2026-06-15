@@ -1,0 +1,6 @@
+name: dmrg_project
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+prefix: /home/kath-l/miniconda3/envs/dmrg_project
