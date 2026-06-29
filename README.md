@@ -4,6 +4,7 @@
 Simulating Ground States of Small Quantum Many-Body Systems Using Classical Numerical Methods  
 —— *Simulating Electronic Structure of Hydrogen Chains Using Density Matrix Renormalization Group*
 
+完整成果详见 /-oral_presentation/H_pre_DMRG_4.pdf
 ---
 
 ## 1. 研究思路
